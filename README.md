@@ -1,5 +1,10 @@
 # [Lab8-Starter](https://jason-boenjamin.github.io/Lab8-Starter/)
 
+## Name of partners:
+- Me
+- Myself
+- I
+
 In your README.md, please add a short paragraph answering the question: How are graceful degradation and service workers related? (Answer this after doing the part below)
 
 Graceful degradation and service workers are related in the fact that they both try to ensure a web application's functionality and that the user's experience is still good and reliable. (Especially under less-than-ideal conditions). Graceful degradation is designing a web application to work at a high level with modern features and technologies while ensuring that the application can still operate with reduced functionality on older browsers. This checks off the 'accessibility' on the Software engineering list since users on less capable devices can still access and use the application's core features. 
